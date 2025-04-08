@@ -1,2 +1,3 @@
 Olá, GitHub! Este é meu primeiro commit no GitHub!
+Para fazer um commit no GitHub é fácil!
 
